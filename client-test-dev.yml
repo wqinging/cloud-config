@@ -1,5 +1,6 @@
 server:
-  port: 8094
+  port: 8095
+changes: hello
 spring:
   application:
     name: client-test
